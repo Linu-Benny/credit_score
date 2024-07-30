@@ -1,4 +1,4 @@
-Flask
-python
+flask
 scikit-learn
+gunicorn
 
